@@ -3,7 +3,7 @@
 
 ![Alt text](/monitor.png?raw=true "Preivew")
 
-### Ideas:
+### Ideas / TODOS:
 
 [ ] keyboard
 
