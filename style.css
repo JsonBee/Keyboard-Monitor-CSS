@@ -40,11 +40,53 @@ body {
 .bottom-base {
     background-color: rgb(71, 223, 223);
     width: 100px;
-    height: 50px;
+    height: 40px;
 
     margin-left: auto;
     margin-right: auto;
 
 }
+
+.bottom-top {
+    background-color: rgb(71, 223, 223);
+    width: 200px;
+    height: 10px;
+
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+.outer-keyboard {
+    background-color: rgb(71, 223, 223);
+    width: 700px;
+    height: 200px;
+
+    margin-left: auto;
+    margin-right: auto;
+
+    margin-top: 60px;
+    margin-bottom: 60px;
+    padding-top: 10px;
+
+    border-radius: 2px;
+
+}
+
+.inner-keyboard {
+
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+    width: 90%;
+    background: white;
+    border-radius: 10px;
+
+    height: 90px;
+
+}
+
 
 
