@@ -1,0 +1,50 @@
+body {
+    background: rgb(229, 229,229);
+}
+
+.outer_shell {
+    width: 700px;
+    height: 440px;
+    background-color: rgb(71, 223, 223);
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    padding-top: 30px;
+}
+
+.inner_shell {
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+    width: 90%;
+    height: 80%;
+    background: white;
+    border-radius: 10px;
+}
+
+
+.inner-circle {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+
+    border-radius: 100px;
+    background: white;
+
+    width: 30px;
+    height: 30px;
+
+}
+
+.bottom-base {
+    background-color: rgb(71, 223, 223);
+    width: 100px;
+    height: 50px;
+
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
